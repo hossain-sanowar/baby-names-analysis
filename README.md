@@ -8,3 +8,13 @@ This research will analyze the frequency of infant names from 1880 to 2010 based
 - Analyze external sources of trends: biblical names, celebrities, demographic shifts
 
 After downloading the "National Data" file names.zip and decompressing it, I have created a directory containing a collection of files such as yob1880.txt.
+
+![](1.png)
+![](2.png)
+![](3.png)
+![](5.png)
+![](7.png)
+![](8.png)
+![](9.png)
+![](10.png)
+![](11.png)
